@@ -8,6 +8,13 @@
       "when": 1752162195325,
       "tag": "0000_dry_bedlam",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752255110032,
+      "tag": "0001_mixed_supreme_intelligence",
+      "breakpoints": true
     }
   ]
 }
