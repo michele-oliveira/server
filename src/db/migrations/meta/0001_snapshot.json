@@ -21,8 +21,8 @@
           "primaryKey": false,
           "notNull": true
         },
-        "questions": {
-          "name": "questions",
+        "question": {
+          "name": "question",
           "type": "text",
           "primaryKey": false,
           "notNull": true
